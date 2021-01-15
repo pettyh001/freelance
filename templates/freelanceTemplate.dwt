@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Clicksee Freelance Designs</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../styles/freelanceStyles.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id="wrapper">
+  <div id="banner">
+	</div><!--banner end-->
+  <div id="globalnav">	
+	  <h2>test</h2>
+	</div><!--globalnav end-->
+  <div id="content">
+	  <h2>test</h2>
+	</div><!--content end-->
+  <div id="footer">
+	  <h2>test</h2>
+	</div><!--footer end-->
+</div> <!--wrapper end-->
+</body>
+</html>
