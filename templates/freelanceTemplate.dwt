@@ -13,16 +13,41 @@
 <body>
 <div id="wrapper">
   <div id="banner">
+  <img src="../images/banner.png" alt="" width="1000" height="250" class="imgCenter"/> 
 	</div><!--banner end-->
-  <div id="globalnav">	
-	  <h2>test</h2>
-	</div><!--globalnav end-->
+  <div id="globalnav">
+	<ul class="sonarmenu">
+<li><a href="../index.html">Home</a></li>
+<li><a href="../aboutUs.html">About Us</a></li>
+<li><a href="../ourServices.html">Our Services</a></li>
+<li><a href="../contactUs.html">Contact Us</a></li>
+</ul>
+	  <hr>
+  	</div><!--globalnav end-->
+  <div id="sideNavLeft">
+	  <h3>LIMITED TIME OFFER: 10% OFF ALL WEB DESIGN SERVICES. VALID UNTIL MIDNIGHT. PLEASE CONTACT US FOR MORE INFORMATION ABOUT THIS PROMOTION.</h3>
+	</div><!-- sideNavLeft end -->
   <div id="content">
-	  <h2>test</h2>
+	  <!-- TemplateBeginEditable name="mainContent" -->
+	  
+	  <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>
+	  
+	  <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>
+	  
+	  <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus</p>
+	  
+	  <!-- TemplateEndEditable -->
 	</div><!--content end-->
+	<hr>
   <div id="footer">
-	  <h2>test</h2>
-	</div><!--footer end-->
+    <h4>Designed by Holden Petty & Clicksee Freelance Designs</h4>
+	  <img src="../images/socialIcons.png" alt="" width="213" height="72" usemap="#Map"/>
+      <map name="Map">
+        <area shape="circle" coords="33,36,28" href="http://www.facebook.com" target="new">
+        <area shape="circle" coords="107,36,25" href="http://www.twitter.com" target="new">
+        <area shape="circle" coords="180,37,26" href="http://www.instagram.com" target="new">
+      </map> 
+  </div><!--footer end-->
 </div> <!--wrapper end-->
 </body>
 </html>
